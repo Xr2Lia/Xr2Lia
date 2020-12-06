@@ -1,4 +1,4 @@
-## Xr2Lia
+## Xr2Liabot
 BOT WHATSAPP YANG BISA DIGUNAKAN DI TERMUX
 
 
@@ -43,7 +43,7 @@ BOT WHATSAPP YANG BISA DIGUNAKAN DI TERMUX
 |       ✅       | ARTI NAMA                         |
 |       ✅       | SHOLAT                            |
 |       ✅       | QURAN                             |
-|       ✅       | KAMING SUN                        |
+|       ✅       | COMING SOON                       |
 
 ket : ✅ : aktif
 
@@ -54,4 +54,4 @@ ket : ✅ : aktif
 * [`termux-whatsapp-bot`](https://github.com/fdciabdul/termux-whatsapp-bot)
 
 ## DONASI
-* Gopay : 081271699856 Reuz
+* Ovo : 088292100777 Cecilya Lim
